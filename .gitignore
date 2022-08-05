@@ -1,2 +1,4 @@
 samples/
-output/
+output*
+dist/
+screenshots/
